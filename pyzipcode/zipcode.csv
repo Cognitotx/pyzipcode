@@ -14763,6 +14763,7 @@ zip,city,state,latitude,longitude,timezone,dst
 33446,Delray Beach,FL,26.452473,-80.16509,-5,1
 33447,Delray Beach,FL,26.645895,-80.430269,-5,1
 33448,Delray Beach,FL,26.645895,-80.430269,-5,1
+33449,Lake Worth,FL,26.645895,-80.430269,-5,1
 33452,Lantana,FL,26.590609,-80.052663,-5,1
 33454,Lake Worth,FL,26.645895,-80.430269,-5,1
 33455,Hobe Sound,FL,27.076516,-80.14697,-5,1
@@ -14780,6 +14781,8 @@ zip,city,state,latitude,longitude,timezone,dst
 33469,Jupiter,FL,26.968795,-80.0994,-5,1
 33470,Loxahatchee,FL,26.751094,-80.30156,-5,1
 33471,Moore Haven,FL,26.844989,-81.1105,-5,1
+33472,Boynton Beach,FL,26.844989,-81.1105,-5,1
+33473,Boynton Beach,FL,26.844989,-81.1105,-5,1
 33474,Boynton Beach,FL,26.645895,-80.430269,-5,1
 33475,Hobe Sound,FL,27.110182,-80.454196,-5,1
 33476,Pahokee,FL,26.817786,-80.65425,-5,1
