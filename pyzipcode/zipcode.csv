@@ -2500,6 +2500,7 @@ zip,city,state,latitude,longitude,timezone,dst
 06457,Middletown,CT,41.553672,-72.6632,-5,1
 06459,Middletown,CT,41.556463,-72.658179,-5,1
 06460,Milford,CT,41.21953,-73.0554,-5,1
+06461,Milford,CT,41.21953,-73.0554,-5,1
 06467,Milldale,CT,41.565697,-72.903746,-5,1
 06468,Monroe,CT,41.336046,-73.22241,-5,1
 06469,Moodus,CT,41.506499,-72.44479,-5,1
@@ -8617,6 +8618,7 @@ zip,city,state,latitude,longitude,timezone,dst
 20788,Hyattsville,MD,38.969434,-76.950913,-5,1
 20790,Capitol Heights,MD,38.833563,-76.877743,-5,1
 20791,Capitol Heights,MD,38.833563,-76.877743,-5,1
+20792,Upper Marlboro,MD,38.892456,-76.80685,-5,1
 20772,Upper Marlboro,MD,38.892456,-76.80685,-5,1
 20794,Jessup,MD,39.144807,-76.78767,-5,1
 20797,Southern Md Facility,MD,38.833563,-76.877743,-5,1
@@ -22523,6 +22525,7 @@ zip,city,state,latitude,longitude,timezone,dst
 50021,Ankeny,IA,41.725288,-93.60475,-6,1
 50022,Atlantic,IA,41.410484,-95.00852,-6,1
 50022,Ankeny,IA,41.410484,-95.00852,-6,1
+50023,Ankeny,IA,41.410484,-95.00852,-6,1
 50025,Audubon,IA,41.741295,-94.92781,-6,1
 50026,Bagley,IA,41.853498,-94.43912,-6,1
 50027,Barnes City,IA,41.472488,-92.46899,-6,1
@@ -28303,6 +28306,8 @@ zip,city,state,latitude,longitude,timezone,dst
 62707,Springfield,IL,39.757896,-89.66363,-6,1
 62708,Springfield,IL,39.806089,-89.586356,-6,1
 62709,Springfield,IL,39.749457,-89.606017,-6,1
+62711,Springfield,IL,39.7778,-89.67982,-6,1
+62712,Springfield,IL,39.7778,-89.67982,-6,1
 62713,Springfield,IL,39.749457,-89.606017,-6,1
 62715,Springfield,IL,39.749457,-89.606017,-6,1
 62716,Springfield,IL,39.848201,-89.536369,-6,1
@@ -38144,6 +38149,7 @@ zip,city,state,latitude,longitude,timezone,dst
 85751,Tucson,AZ,32.161972,-110.714678,-7,0
 85752,Tucson,AZ,31.970131,-111.890713,-7,0
 85754,Tucson,AZ,31.970131,-111.890713,-7,0
+85755,Tucson,AZ,32.417144,-110.96354,-7,0
 85756,Tucson,AZ,32.417144,-110.96354,-7,0
 85757,Tucson,AZ,32.417144,-110.96354,-7,0
 85775,Tucson,AZ,31.970131,-111.890713,-7,0
