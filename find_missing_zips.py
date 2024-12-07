@@ -1,3 +1,10 @@
+# Instructions:
+# get the lastest zip code details from the USPS website.
+# https://postalpro.usps.com/ZIP_Locale_Detail
+# execute the script python3 find_missing_zips.py
+# add each missing zip code from missing_zips.txt into pyzipcode/zipcodes.csv
+# get the latitude and longitude from :
+# https://www.geocod.io/bulk-convert-zip-codes-to-coordinates/?q=63380
 import csv
 from pyzipcode import ZipCodeDatabase
 myzip = ZipCodeDatabase()
